@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### I'm Amara and I'm an astrophysics PhD student at UCL.
+
+
 
 <!--
 **amaramighty/amaramighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
